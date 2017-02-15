@@ -1,0 +1,23 @@
+{
+  "name": "brutalbrain-web",
+  "version": "0.0.0",
+  "description": "Brutal Brain website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brutalbrain/brutalbrain-web.git"
+  },
+  "keywords": [
+    "brutalbrain",
+    "website"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brutalbrain/brutalbrain-web/issues"
+  },
+  "homepage": "https://github.com/brutalbrain/brutalbrain-web#readme"
+}
